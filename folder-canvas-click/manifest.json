@@ -1,0 +1,9 @@
+{
+  "id": "folder-canvas-click",
+  "name": "Folder Canvas Click",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Open a same-named canvas when clicking a folder.",
+  "author": "Local",
+  "isDesktopOnly": false
+}
